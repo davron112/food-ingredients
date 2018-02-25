@@ -31,5 +31,5 @@ Ma'lumotlar bazasi jadvali va ularning ko'chishlariga asoslangan aloqalarini yar
 Test data "sql for insert.txt"
 
 [DEMO]
-http://food.rimsal.uz# food-ingredients
+http://lime.rimsal.uz/ food-ingredients
 # food-ingredients
