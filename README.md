@@ -32,3 +32,4 @@ Test data "sql for insert.txt"
 
 [DEMO]
 http://food.rimsal.uz# food-ingredients
+# food-ingredients
